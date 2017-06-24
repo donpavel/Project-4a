@@ -1,0 +1,97 @@
+1- Basics concepts
+
+a-	What is a DevOps?
+
+It is a term used to refer to a set of practices that emphasized the collaboration and communication between software developers and information technology professionals while automating the process of software delivery and infrastructure changes.
+ 
+   It aims at establishing a culture and environment where, building, 
+   Testing and releasing software can happen rapidly, frequently and   reliably.
+
+   In other words it is the breaking down of barriers between operations and
+   development in pursuit of increased business agility. 
+
+
+b)	What is GIT?
+
+   Git is a distributed version control system used in software       development with emphasis on speed data integrity and support of    distributer non-linear work flow. Build by Linus Travaul It can be used anywhere. It like a software that helps you clone the main Repository
+
+c)	What is the difference between Git and svn?
+
+SVN (Subversion) is a version control system. Just like GIT but it’s different in that, it allow users to keep track of changes made to any type of electronic data, typically source code, web pages or design documents. Whereas, Git emphasizes on speed data integrity.
+Subversion is currently a popular alternative to CVS. 
+
+CVS (The Concurrent version control system), also known as the concurrent versioning system, is a free software client server revision control system in the field of software development.	
+
+d)	What is continuous integration? 
+
+It is a development practice that requires developers to integrate codes into share repository several times a day. Each check-in is then verified by an automation build, allowing teams to detect problems early. You have to be able to mirror the software and make sure its ok before deploying to the server.
+
+      It is the practice of merging all developer working copies to a shared mainline several times a day. 
+
+
+e)	What is continuous delivery? 
+
+  It is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time
+
+
+f)	What is scrum? It’s a framework of software  
+Scrum is an iterative and incremental agile software development framework for managing product development. It is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. 
+
+
+g)	What is agile methodology?   
+
+Agile Methodology is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project. It is where requirements and solutions evolve through collaborations. Agile processes generally promote a disciplined project management that encourages frequent inspections and adaptation between self-organizing, cross functional teams. instead of trying to deliver it all at once near the end
+
+     What is release calendar?   
+
+A release calendar is an estimated period of time and layout of sprints where a given software project will be completed and ready for production. It a software calendar used to schedule when all the applications elevation going to production is stated 
+  
+
+h)	What is release date?   
+
+It is a date where applications are scheduled to go to production. The date that changes made in the lowest regions goes to production.
+
+
+ 2- Give 4 reasons why companies should consider the DevOps method.
+ 
+Time constraint. It saves time.
+Financial lost. It saves costs
+Ensure efficiency. Brings out quality.
+Competitive. It makes product very competitive.
+Problems are detected early and treated as such.
+Speedy output. 
+Continues delivery.
+
+
+3- What are some automation tools used in the DevOps environment?
+
+Nagios
+Jenkins,
+Docker,
+Consul.io
+ELK Elastic Search, Logstash, kibana
+Monit
+Ansible
+Collectd/Collectl
+Git(GitHub)
+
+
+4- Why is it important to build the software in the test regions before delivering it to production?
+
+It is important because Testing and corrections would be done simultaneously alongside production, thus saving time and cost. 
+
+
+
+
+
+5- Create a project in your github repository called project4 and in project 4 , create a file called project11
+
+In ‘donpavel’ my repository, I have created project 4 and in project 4 I have created a file called project 11.
+
+6- Copy your homework11 answers into the file project11 and commit it.
+
+Homework11 is in project 4 and in the file project11
+
+
+7- What is the url to access your github project11 file?
+
